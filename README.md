@@ -5,9 +5,9 @@
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/西安交通大学-硕士在读-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agent-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/持续学习-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/拥抱开源-FF6B6B?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
 </p>
 ---
 
