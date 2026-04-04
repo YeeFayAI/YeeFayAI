@@ -1,6 +1,6 @@
-### 你好，我是 AI Agent 领域的研究者 Berg 👋
+### 你好，我是 Berg  👋
 
-欢迎来到我的 GitHub 主页！目前专注于 **AI Agent 智能体系统** —— 探索大模型与自主决策的能力边界。
+欢迎来到我的 GitHub 主页！目前是**西安交通大学**的一位在读硕士，我目前专注于 **AI Agent 智能体系统** —— 探索大模型与自主决策的能力边界。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
@@ -12,11 +12,7 @@
 
 ## 🔭 我在做什么
 
-> **探索大模型智能体的能力边界** —— 从单步推理到多智能体协作、长期记忆、工具增强的自主决策。
-
-- 🧠 **研究方向**：不确定环境下的智能体决策、自我反思机制、动态环境中的高效规划。
-- 🤖 **项目实践**：构建模块化的 Agent 框架（LangGraph + AutoGen），用于真实场景的任务自动化。
-- 📚 **论文研究**：研究自主智能体的“能力边界”—— 何时失败、为何失败，以及如何衡量。
+> **Agent is all you need** —— 研究开发最前沿的agent系统！
 
 ---
 
