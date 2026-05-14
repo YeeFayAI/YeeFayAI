@@ -1,11 +1,11 @@
 ### 你好，我是 YeeFay  👋
 
-欢迎来到我的 GitHub 主页！我目前专注于 **AI Agent 智能体系统**，主要探索 Agent 架构、有趣的记忆系统、Agent如何正确的意图识别、什么才是真正的好的Agent评测体系、如何真正做好Harness。
+欢迎来到我的 GitHub 主页！我目前专注于 **AI Agent 智能体系统**，主要探索 Agent 架构、有趣的记忆系统、Agent 如何正确识别意图、什么才是真正好的 Agent 评测体系，以及如何真正做好 Harness。
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Harness_Engineering-4CAF50?style=for-the-badge&logo=harness&logoColor=white" />
-  <img src="https://img.shields.io/badge/持续进化-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent-1F7A5C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harness_Engineering-256D85?style=for-the-badge&logo=harness&logoColor=white" />
+  <img src="https://img.shields.io/badge/持续进化-D96C4A?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -25,21 +25,21 @@
 
 ### 🤖 Agent 与工具调用
 
-![MCP](https://img.shields.io/badge/MCP-2E8B57?style=flat-square&logo=modelcontextprotocol&logoColor=white)
-![Function Call](https://img.shields.io/badge/Function_Call-181717?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4CAF50?style=flat-square&logo=databricks&logoColor=white)
-![Skills](https://img.shields.io/badge/Skills-00A86B?style=flat-square&logo=dependabot&logoColor=white)
-![Plugin](https://img.shields.io/badge/Plugin-3178C6?style=flat-square&logo=plugin&logoColor=white)
-![Hooks](https://img.shields.io/badge/Hooks-FF6B6B?style=flat-square&logo=gitextensions&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-5C2D91?style=flat-square&logo=openai&logoColor=white)
-![Subagent](https://img.shields.io/badge/Subagent-8A6E4B?style=flat-square&logo=anthropic&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-FF6F00?style=flat-square&logo=harness&logoColor=white)
+![Function Call](https://img.shields.io/badge/Function_Call-1F7A5C?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1F7A5C?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Skills](https://img.shields.io/badge/Skills-1F7A5C?style=flat-square&logo=dependabot&logoColor=white)
+![Plugin](https://img.shields.io/badge/Plugin-1F7A5C?style=flat-square&logo=plugin&logoColor=white)
+![Hooks](https://img.shields.io/badge/Hooks-1F7A5C?style=flat-square&logo=gitextensions&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-1F7A5C?style=flat-square&logo=databricks&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-1F7A5C?style=flat-square&logo=openai&logoColor=white)
+![Subagent](https://img.shields.io/badge/Subagent-1F7A5C?style=flat-square&logo=anthropic&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-256D85?style=flat-square&logo=harness&logoColor=white)
 
 ### 🧠 模型训练与优化
 
-![Post-training](https://img.shields.io/badge/Post--training-412991?style=flat-square&logo=openai&logoColor=white)
-![LoRA](https://img.shields.io/badge/LoRA-FFB347?style=flat-square&logo=pytorch&logoColor=black)
-![Agentic RL](https://img.shields.io/badge/Agentic_RL-2E8B57?style=flat-square&logo=openai&logoColor=white)
+![Post-training](https://img.shields.io/badge/Post--training-5C4D9D?style=flat-square&logo=openai&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-5C4D9D?style=flat-square&logo=pytorch&logoColor=white)
+![Agentic RL](https://img.shields.io/badge/Agentic_RL-5C4D9D?style=flat-square&logo=openai&logoColor=white)
 
 ### 🗄️ 数据库与向量检索
 
@@ -58,11 +58,11 @@
 
 ### 🛠️ AI 编程与开发工具
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-8A6E4B?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-5C2D91?style=flat-square&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-3178C6?style=flat-square&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-2D2D2D?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-2D2D2D?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-2D2D2D?style=flat-square&logo=cursor&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-2D2D2D?style=flat-square&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-2D2D2D?style=flat-square&logoColor=white)
 
 ---
 
@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://yeefayai.github.io">
-    <img src="https://img.shields.io/badge/YeeFay_AI_Blog-yeefayai.github.io-2E8B57?style=for-the-badge&logo=githubpages&logoColor=white" />
+    <img src="https://img.shields.io/badge/YeeFay_AI_Blog-yeefayai.github.io-1F7A5C?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
