@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI工程化-FF6B6B?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Harness_Engineering-4CAF50?style=for-the-badge&logo=harness&logoColor=white" />
+  <img src="https://img.shields.io/badge/持续进化-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
