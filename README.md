@@ -65,3 +65,13 @@
 ![Trae](https://img.shields.io/badge/Trae-3178C6?style=flat-square&logoColor=white)
 
 ---
+
+## 📝 Blog
+
+<p align="center">
+  <a href="https://yeefayai.github.io">
+    <img src="https://img.shields.io/badge/YeeFay_AI_Blog-yeefayai.github.io-2E8B57?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
+
+---
