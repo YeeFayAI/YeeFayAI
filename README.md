@@ -1,6 +1,6 @@
 ### 你好，我是 YeeFay  👋
 
-欢迎来到我的 GitHub 主页！我目前专注于 **AI Agent 智能体系统**，主要探索 Agent 架构、RAG 记忆系统、工具调用、模型微调与工程化落地。
+欢迎来到我的 GitHub 主页！我目前专注于 **AI Agent 智能体系统**，主要探索 Agent 架构、有趣的记忆系统、Agent如何正确的意图识别、什么才是真正的好的Agent评测体系、如何真正做好Harness。
 
 <p align="center">
   <img src="https://img.shields.io/badge/Agent-2E8B57?style=for-the-badge&logo=openai&logoColor=white" />
