@@ -24,7 +24,6 @@ Currently focused on **Agent and AI Full-Stack Development**.
 ![Hooks](https://img.shields.io/badge/Hooks-475569?style=flat-square\&logo=gitextensions\&logoColor=white)
 ![Subagent](https://img.shields.io/badge/Subagent-0F766E?style=flat-square\&logo=anthropic\&logoColor=white)
 ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-B45309?style=flat-square\&logo=openai\&logoColor=white)
-![Harness](https://img.shields.io/badge/Harness-E11D48?style=flat-square\&logo=harness\&logoColor=white)
 ![LLM API](https://img.shields.io/badge/LLM_API-1D4ED8?style=flat-square\&logo=fastapi\&logoColor=white)
 
 ### 🧠 Model Training
