@@ -2,7 +2,9 @@
 
 Currently focused on **Agent and AI Full-Stack Development**.
 
-> **Agent is all you need!**
+<p align="left">
+  <img src="https://img.shields.io/badge/Agent_is_all_you_need!-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 ---
 
