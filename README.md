@@ -38,7 +38,7 @@ Focused on **Agent and AI Full-Stack Development**.
 ![Redis](https://img.shields.io/badge/Redis-DB2777?style=flat-square\&logo=redis\&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-0891B2?style=flat-square\&logo=milvus\&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-16A34A?style=flat-square\&logo=elasticsearch\&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-EA580C?style=flat-square\&logo=neo4j\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EA580C?style=flat-square\&logo=kubernetes\&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-475569?style=flat-square\&logo=apachekafka\&logoColor=white)
 
 ### 🔧 Engineering
@@ -46,14 +46,12 @@ Focused on **Agent and AI Full-Stack Development**.
 ![Linux](https://img.shields.io/badge/Linux-2563EB?style=flat-square\&logo=linux\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-DB2777?style=flat-square\&logo=git\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0891B2?style=flat-square\&logo=kubernetes\&logoColor=white)
 
 ### 🛠️ AI Coding & Development Tools
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-2563EB?style=flat-square\&logo=anthropic\&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-7C3AED?style=flat-square\&logo=openai\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-DB2777?style=flat-square\&logo=cursor\&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-0891B2?style=flat-square\&logoColor=white)
 
 ---
 
