@@ -23,10 +23,7 @@ Focused on **Agent and AI Full-Stack Development**.
 ![RAG](https://img.shields.io/badge/RAG-0891B2?style=flat-square\&logo=elasticsearch\&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-16A34A?style=flat-square\&logo=modelcontextprotocol\&logoColor=white)
 ![Skills](https://img.shields.io/badge/Skills-EA580C?style=flat-square\&logo=dependabot\&logoColor=white)
-![Hooks](https://img.shields.io/badge/Hooks-475569?style=flat-square\&logo=gitextensions\&logoColor=white)
-![Subagent](https://img.shields.io/badge/Subagent-0F766E?style=flat-square\&logo=anthropic\&logoColor=white)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-B45309?style=flat-square\&logo=openai\&logoColor=white)
-![LLM API](https://img.shields.io/badge/LLM_API-1D4ED8?style=flat-square\&logo=fastapi\&logoColor=white)
+![Subagent](https://img.shields.io/badge/Subagent-475569?style=flat-square\&logo=anthropic\&logoColor=white)
 
 ### 🧠 Model Training
 
