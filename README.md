@@ -57,16 +57,7 @@ Focused on **Agent and AI Full-Stack Development**.
 ![Claude Code](https://img.shields.io/badge/Claude_Code-2563EB?style=flat-square\&logo=anthropic\&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-7C3AED?style=flat-square\&logo=openai\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-DB2777?style=flat-square\&logo=cursor\&logoColor=white)
-![Kiro](https://img.shields.io/badge/Kiro-0891B2?style=flat-square\&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-16A34A?style=flat-square\&logoColor=white)
-
-### 🧭 Engineering Philosophy
-
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-2563EB?style=flat-square\&logo=openai\&logoColor=white)
-![Context Engineering](https://img.shields.io/badge/Context_Engineering-7C3AED?style=flat-square\&logo=googledocs\&logoColor=white)
-![Harness Engineering](https://img.shields.io/badge/Harness_Engineering-DB2777?style=flat-square\&logo=harness\&logoColor=white)
-![Loop Engineering](https://img.shields.io/badge/Loop_Engineering-0891B2?style=flat-square\&logo=githubactions\&logoColor=white)
-![Graph Engineering](https://img.shields.io/badge/Graph_Engineering-16A34A?style=flat-square\&logo=neo4j\&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-0891B2?style=flat-square\&logoColor=white)
 
 ---
 
