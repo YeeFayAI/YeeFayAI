@@ -46,7 +46,7 @@ Focused on **Agent and AI Full-Stack Development**.
 
 ![Linux](https://img.shields.io/badge/Linux-2563EB?style=flat-square\&logo=linux\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-7C3AED?style=flat-square\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-DB2777?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-DB2777?style=flat-square\&logo=kubernetes\&logoColor=white)
 
 ### 🛠️ AI Coding 
 
