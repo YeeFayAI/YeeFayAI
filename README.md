@@ -10,7 +10,7 @@ Focused on **Agent and AI Full-Stack Development**.
 
 ![Golang](https://img.shields.io/badge/Golang-2563EB?style=flat-square\&logo=go\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-DB2777?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-DB2777?style=flat-square&logo=typescript&logoColor=white)
 
 ### 🤖 Agent
 
