@@ -1,7 +1,5 @@
 ### Hi, I'm YeeFay 👋
 
-Focused on **Agent and AI Full-Stack Development**.
-
 ---
 
 ## 🧰 Tech Stack
