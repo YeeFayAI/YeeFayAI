@@ -8,9 +8,9 @@ Focused on **Agent and AI Full-Stack Development**.
 
 ### 💻 Programming Languages
 
-![Golang](https://img.shields.io/badge/Golang-2563EB?style=flat-square\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-DB2777?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2563EB?style=flat-square&logo=openjdk&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-7C3AED?style=flat-square\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DB2777?style=flat-square\&logo=python\&logoColor=white)
 
 ### 🤖 Agent
 
